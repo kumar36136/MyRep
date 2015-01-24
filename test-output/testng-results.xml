@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164" started-at="2015-01-24T13:25:04Z" finished-at="2015-01-24T13:25:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164" started-at="2015-01-24T13:25:04Z" finished-at="2015-01-24T13:25:04Z">
+      <class name="test.DataProvider_YahooRegistration">
+        <test-method status="PASS" signature="testRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.DataProvider_YahooRegistration@4873e835]" name="testRegistration" duration-ms="63" started-at="2015-01-24T13:25:04Z" data-provider="dataRegister" finished-at="2015-01-24T13:25:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[email1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[city1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="testRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.DataProvider_YahooRegistration@4873e835]" name="testRegistration" duration-ms="2" started-at="2015-01-24T13:25:04Z" data-provider="dataRegister" finished-at="2015-01-24T13:25:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[city2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="testRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.DataProvider_YahooRegistration@4873e835]" name="testRegistration" duration-ms="2" started-at="2015-01-24T13:25:04Z" data-provider="dataRegister" finished-at="2015-01-24T13:25:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[email3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[city3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+      </class> <!-- test.DataProvider_YahooRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
